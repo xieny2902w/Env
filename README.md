@@ -5,3 +5,4 @@
 ## 目錄
 - [homebrew](./homebrew/README.md)
 - [vim](./vim/README.md)
+- [vscode](./vscode/README.md)
