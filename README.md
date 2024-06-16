@@ -7,3 +7,4 @@
 - [vim](./vim/README.md)
 - [vscode](./vscode/README.md)
 - [yarn](./yarn/README.md)
+- [nvm](./nvm/README.md)
